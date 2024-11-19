@@ -1,6 +1,6 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div>
+<br>
 [▶ JAVA 클래스와 객체 정리 ◀](https://blog.naver.com/dnddlsla159/223591178078)
 
 [▶ JAVA 클래스와 객체 정리 2◀](https://blog.naver.com/dnddlsla159/223591261346) 
@@ -12,4 +12,3 @@
 [▶ JAVA 원시변수 & 참조변수◀ ](https://blog.naver.com/dnddlsla159/223591209579)
 
 [▶ JAVA 메서드 정의◀ ](https://blog.naver.com/dnddlsla159/223594837018)
-</div>
